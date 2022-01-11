@@ -1,0 +1,26 @@
+
+
+:root {
+  --header-bg: #fdfff5;
+  --typographyColor: black;
+  --footer-bg: #fdfff5;
+  --color-white: #ffffff;
+}
+
+
+body {
+  background-color: #c9c9c9;
+  color: #000000;
+  font-family: 'Montserrat';
+  font-size: 18px;
+  font-weight: normal;
+}
+
+main {
+  padding-top: 120px;
+  padding-bottom: 80px;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
